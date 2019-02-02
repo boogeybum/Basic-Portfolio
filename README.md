@@ -27,5 +27,5 @@ For direct contributions, please fork the repository and file a pull request.
 #### Developer/Full-stack Web Software Developer (in training)
 * Homepage: -under construction-
 * e-mail: cseastrand@gmail.com
-* Twitter: @boogeybum
+* Twitter: @cseastrand
 * LinkedIn: https://www.linkedin.com/in/clayton-seastrand-43a76861/
